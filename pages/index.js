@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to Ripa.su!" />
         <p className="description">
-          Contact me: <code>d@ripa.su</code>
+          Contact me: <code>support@ripa.su</code>
         </p>
       </main>
 
